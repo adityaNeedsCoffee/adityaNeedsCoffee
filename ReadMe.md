@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React, Next.js projects.<br>🌱 I’m currently learning Next.js and Angular.<br>⚡ Fun fact : I make music and im too damn funny.
+🔭 I’m currently working on React, Next.js projects.<br>🌱 I’m currently learning Next.js and Angular.<br>
 
 
 ## 🌐 Socials:
